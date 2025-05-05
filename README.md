@@ -1,4 +1,4 @@
-# R-Data-Exploration
+# Melanoma Survival Analysis Using R
 
 ## Investigation and Goal of the Study
 
